@@ -1,3 +1,3 @@
-# Admin-Dashboard
+# Project-Admin-Dashboard
 
-https://genezijlboot.github.io/Admin-Dashboard/
+https://genezijlboot.github.io/Project-Admin-Dashboard
